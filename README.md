@@ -14,5 +14,5 @@ Antes de comenzar, asegúrate de tener instalados los siguientes programas:
 
 1. Clona el repositorio (si estás utilizando Git):
    ```bash
-   git clone https://github.com/tu_usuario/football-tournament-api.git
+   https://github.com/alexserranosv/DPS-Investigacion2.git
    cd football-tournament-api
